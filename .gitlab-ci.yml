@@ -1,0 +1,7 @@
+build_job:
+  script:
+    - 'make'
+
+test_job:
+  script:
+    - 'make test'
